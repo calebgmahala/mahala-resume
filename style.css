@@ -123,15 +123,9 @@ article section:nth-of-type(2) .education,.skills {
 	font-size: 18px;
 	padding-bottom: 10px;
 }
-.education p {
-	text-indent: 15px;
-}
 /* Skills */
 .skills h3 {
 	font-size: 20px;
 	font-weight: bold;
 	text-align: center;
-}
-.skills p {
-	text-indent: 15px;
 }
