@@ -99,3 +99,33 @@ article section {
 	font-weight: bold;
 	padding-bottom: 10px;
 }
+/* Education/Skills styles */
+article section:nth-of-type(2) .education,.skills {
+	/* Seperates to secions to opposite sides of the screen */
+	display: inline-block;
+	width: 49%;
+	vertical-align: top;
+}
+/* Education */
+.education div:first-of-type{
+	margin-bottom: 20px;
+}
+.education h3{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+.education h4 {
+	font-size: 18px;
+	font-weight: bold;
+}
+.education h5 {
+	font-size: 18px;
+	padding-bottom: 10px;
+}
+/* Skills */
+.skills h3 {
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
