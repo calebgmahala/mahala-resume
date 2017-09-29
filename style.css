@@ -1,0 +1,10 @@
+/* Set up Background and main paper layout */
+body {
+	background-image: url(images/Grey-Texture-Background-and-Wallpaper-26.jpg);
+}
+.resume {
+	background-color: white;
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 50px;
+}
