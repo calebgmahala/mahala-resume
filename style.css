@@ -114,6 +114,7 @@ article section:nth-of-type(2) .education,.skills {
 	font-size: 20px;
 	font-weight: bold;
 	text-align: center;
+	padding-bottom: 10px;
 }
 .education h4 {
 	font-size: 18px;
@@ -128,4 +129,16 @@ article section:nth-of-type(2) .education,.skills {
 	font-size: 20px;
 	font-weight: bold;
 	text-align: center;
+	padding-bottom: 10px;
+}
+/* Work Expirience & Volenteer Expirience */
+.column h3 {
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 10px;
+}
+.column p {
+	column-count: 2;
+	column-gap: 40px;
 }
