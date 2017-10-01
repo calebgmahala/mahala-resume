@@ -151,3 +151,27 @@ article section:nth-of-type(5) h3 {
 	text-align: center;
 	padding-bottom: 10px;
 }
+footer {
+	background: linear-gradient(171deg, lightgrey, grey, lightgrey);
+	display: flex;
+	align-items: center;
+	padding: 20px;
+}
+footer h3 {
+	padding-bottom: 20px;
+	font-size: 20px;
+	font-weight: bold;
+}
+footer div {
+	padding-right: 100px;
+}
+footer a {
+	text-decoration: none;
+}
+footer a:hover {
+	text-decoration: underline;
+}
+footer a:active {
+	text-decoration: underline;
+	color: purple;
+}
