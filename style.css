@@ -154,7 +154,6 @@ article section:nth-of-type(5) h3 {
 footer {
 	background: linear-gradient(171deg, lightgrey, grey, lightgrey);
 	display: flex;
-	align-items: center;
 	padding: 20px;
 }
 footer h3 {
@@ -164,6 +163,7 @@ footer h3 {
 }
 footer div {
 	padding-right: 100px;
+	align-self: flex-end;
 }
 footer a {
 	text-decoration: none;
