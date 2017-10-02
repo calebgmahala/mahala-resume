@@ -99,7 +99,7 @@ article section {
 	padding-bottom: 10px;
 }
 /* Education/Skills styles */
-article section:nth-of-type(2) .education,.skills {
+.education,.skills {
 	/* Seperates to secions to opposite sides of the screen */
 	display: inline-block;
 	width: 49%;
